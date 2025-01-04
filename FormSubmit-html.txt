@@ -2,7 +2,7 @@
 						 
 <div class="inner special medium">
 
-<form action="https://github.com/lindatoday/Formsubmit-info-Rawsa.git" method="POST">
+<form action="https://formsubmit.co/9099dcc949e8676aae85439f5edbcd13" method="POST">
 
 <div class="fields">
 <div class="field half">
