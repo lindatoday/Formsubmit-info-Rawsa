@@ -1,0 +1,34 @@
+
+						 
+<div class="inner special medium">
+
+<form action="https://github.com/lindatoday/Formsubmit-info-Rawsa.git" method="POST">
+
+<div class="fields">
+<div class="field half">
+<input name="name" id="name" placeholder="Name" type="text">
+</div>
+<div class="field half">
+<input name="email" id="email" placeholder="Email" type="email"></div>
+<div class="field">
+<textarea name="message" id="message" rows="8" placeholder="Message"></textarea>
+</div>
+
+<ul class="actions special">
+<li><input value="Send Message" class="button next" type="submit"></li>
+</ul>
+</form>	
+<input name="name" id="name" placeholder="Name" type="text">
+</div>
+<div class="field half">
+<input name="email" id="email" placeholder="Email" type="email">
+</div>
+<div class="field">
+<textarea name="message" id="message" rows="8" placeholder="Message"></textarea>
+</div>
+</div>
+<ul class="actions special">
+<li><input value="Send Message" class="button next" type="submit"></li>
+</ul>
+</form>
+							
